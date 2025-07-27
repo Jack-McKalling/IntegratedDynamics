@@ -4,7 +4,7 @@ base_path: .
 preserve_hierarchy: 1
 files:
   - source: src/main/resources/assets/integrateddynamics/lang/en_us.json
-    translation: src/main/resources/assets/integrateddynamics/lang/%locale_with_underscore%.json
+    translation: /src/main/resources/assets/integrateddynamics/lang/%locale_with_underscore%.json
     excluded_target_languages:
       - en
     languages_mapping:
